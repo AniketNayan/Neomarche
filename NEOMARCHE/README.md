@@ -16,11 +16,15 @@ To set up the project locally, follow the instructions below:
 git clone https://github.com/your-username/neomarche.git
 cd neomarche
 
-### 2. install dependencies
+```
+### 2. Install Dependencies
 
+```
 npm install
 npm install react-router-dom
 
-### 1. start the development
+```
+### 3. start the development
 
+```
 npm run dev
