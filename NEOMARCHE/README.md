@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo.png" alt="Neomarche Logo" width="200" />
+  <img src="/public/images/logo.png" alt="Neomarche Logo" width="200" />
 </p>
 
 # Neomarche
@@ -15,6 +15,8 @@ To set up the project locally, follow the instructions below:
 ```bash
 git clone https://github.com/your-username/neomarche.git
 cd neomarche
+### 2. install dependencies 
 npm install
 npm install react-router-dom
+### 1. start the development
 npm run dev
