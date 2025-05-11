@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="/images/Logo.png" alt="Neomarche Logo" width="200" />
+  <img src="./images/Logo.png" alt="Neomarche Logo" width="200" />
 </p>
 
 # Neomarche
 
-Welcome to the official repository for **Neomarche** – a modern web application built with **React.js**, powered by **Vite**, and styled using **Tailwind CSS**.
+Welcome to the repository for **Neomarche** – a modern web application built with **React.js**, powered by **Vite**, and styled using **Tailwind CSS**.
 
 ## Getting Started
 
