@@ -1,12 +1,20 @@
-# React + Vite
+<p align="center">
+  <img src="images/logo.png" alt="Neomarche Logo" width="200" />
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Neomarche
 
-Currently, two official plugins are available:
+Welcome to the official repository for **Neomarche** – a modern web application built with **React.js**, powered by **Vite**, and styled using **Tailwind CSS**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
 
-## Expanding the ESLint configuration
+To set up the project locally, follow the instructions below:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/neomarche.git
+cd neomarche
+npm install
+npm install react-router-dom
+npm run dev
