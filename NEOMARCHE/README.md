@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/public/images/Logo.png" alt="Neomarche Logo" width="200" />
+  <img src="/images/Logo.png" alt="Neomarche Logo" width="200" />
 </p>
 
 # Neomarche
